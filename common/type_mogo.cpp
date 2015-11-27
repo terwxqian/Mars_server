@@ -16,6 +16,7 @@
 #include "util.h"
 #include "world_select.h"
 #include <mysql.h>
+#include <mysql_global.h>
 #include "logger.h"
 
 
